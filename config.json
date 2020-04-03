@@ -3,8 +3,8 @@
   "username": "aiomonitors",
   "name": "Shihab Chowdhury",
   "userimg": "https://avatars3.githubusercontent.com/u/43799744?v=4",
-  "sort": "updated",
-  "order": "asc",
+  "sort": "created",
+  "order": "desc",
   "includeFork": false,
   "theme": "dark.css",
   "types": [
